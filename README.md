@@ -11,4 +11,4 @@ This website describes an LSTM based approach for panic detection in streamingvi
 Multiple data sets hav been usd to test the model
 
 ## Results
-![alt text](/images/microkernel.png)
+![alt text](https://github.com/PanicDetection/DeepPanicDetection/images/microkernel.png)
