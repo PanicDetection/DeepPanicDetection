@@ -1,13 +1,13 @@
 # DeepPanicDetection
 This website describes an LSTM based approach for panic detection in streamingvidos
 
-#Problem Statement
+# Problem Statement
 
-#Methods
+# Methods
 
-#Testing
+# Testing
 
-##Dataset
+## Dataset
 Multiple data sets hav been usd to test the model
 
 ## Results
